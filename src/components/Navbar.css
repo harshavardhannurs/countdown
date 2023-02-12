@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #181823;
+  padding: 0.8rem;
+  font-style: bolder;
+}
+
+.brand-name {
+  font-size: 1.5rem;
+  color: #537fe7;
+  font-family: "Montserrat", sans-serif;
+}
+
+.icon {
+  font-size: 1.9rem;
+  color: #537fe7;
+  padding-top: 2px;
+}
+
+.icon:hover {
+  color: white;
+}

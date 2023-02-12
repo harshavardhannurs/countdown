@@ -1,0 +1,31 @@
+.timer {
+  font-size: 10rem;
+  text-align: center;
+  padding: 5rem 2rem 1rem 2rem;
+  color: #181823;
+}
+
+.set-timer {
+  text-align: center;
+}
+
+input {
+  padding: 5px;
+  margin: 2rem 2rem 3rem 2rem;
+  font-size: 1.8rem;
+}
+
+button {
+  margin: 0.3rem;
+  font-size: 2rem;
+  padding: 8px 13px;
+  border-radius: 15px;
+  background-color: #181823;
+  cursor: pointer;
+  border: 1px solid rgb(143, 143, 143);
+  color: #537fe7;
+}
+
+button:hover {
+  background-color: #1a1a29;
+}
